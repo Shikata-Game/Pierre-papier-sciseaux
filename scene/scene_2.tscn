@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://88ptsc3byqhk"]
+
+[ext_resource type="PackedScene" uid="uid://c03cw0r83a68y" path="res://scene/health_bar.tscn" id="1_ko8ae"]
+[ext_resource type="PackedScene" uid="uid://m10ws65i6pth" path="res://scene/player_2.tscn" id="2_nev6h"]
+
+[node name="scene_2" type="Node2D" unique_id=653499097]
+
+[node name="HealthBar" parent="." unique_id=6083391 instance=ExtResource("1_ko8ae")]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1666874223]
+
+[node name="Player2" parent="." unique_id=1597270049 node_paths=PackedStringArray("health_bar") instance=ExtResource("2_nev6h")]
+position = Vector2(74, 63)
+health_bar = NodePath("../HealthBar")
+
+[node name="Camera2D" type="Camera2D" parent="Player2" unique_id=571340302]
+zoom = Vector2(2, 2)

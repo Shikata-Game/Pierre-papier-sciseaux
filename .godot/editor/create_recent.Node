@@ -1,0 +1,8 @@
+Camera2D
+CanvasLayer
+TextureProgressBar
+Control
+CollisionShape2D
+AnimatedSprite2D
+CharacterBody2D
+AudioStreamPlayer2D

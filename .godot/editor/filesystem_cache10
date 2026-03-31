@@ -1,0 +1,46 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1774007530
+icon.svg::CompressedTexture2D::5229429350707340863::1773745982::1773745994::1::::<><><>0<>0<>071c9287f1bba12f80e346805349fbc4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://asset/::1773909733
+::res://asset/Martial Hero/::1773905133
+License.txt::TextFile::-1::1773905133::0::1::::<><><>0<>0<><>::
+::res://asset/Martial Hero/Sprites/::1773905134
+Attack1.png::CompressedTexture2D::5927894092686286579::1773905133::1773905133::1::::<><><>0<>0<>9f6a61f42f166fdd5cd0afc688e69204<>res://.godot/imported/Attack1.png-65501e678074bb7063b19ee7ac53d9d0.ctex::
+Attack2.png::CompressedTexture2D::8723861921212010122::1773905133::1773905133::1::::<><><>0<>0<>a50c995f2b8a15038c39aa59c2df4034<>res://.godot/imported/Attack2.png-a71d585016f7c3ba9f3b9e14d5e1b420.ctex::
+Death.png::CompressedTexture2D::9025155384413369067::1773905133::1773905133::1::::<><><>0<>0<>1e865a059586ff7ab1e165335ac65ed8<>res://.godot/imported/Death.png-be5569cbc2bd0d8cc6a9534778bd1c1b.ctex::
+Fall.png::CompressedTexture2D::1924714845024161232::1773905133::1773905134::1::::<><><>0<>0<>ac21b41df1e66951f67945ba3aeeee74<>res://.godot/imported/Fall.png-c5ef8ba6487880bb589eb6d1753bdbfd.ctex::
+Idle.png::CompressedTexture2D::6890753181767708578::1773905133::1773905134::1::::<><><>0<>0<>a9ac3b4c7434536431e736bc96df4f4b<>res://.godot/imported/Idle.png-8fff88e1fb5fc2a7d96763fc9805a31d.ctex::
+Jump.png::CompressedTexture2D::6811165149736911842::1773905133::1773905134::1::::<><><>0<>0<>9e44ae895fc667ec60c0f44b8848afd8<>res://.godot/imported/Jump.png-96522d5c5c4d87645132b9523eb5e3ad.ctex::
+Run.png::CompressedTexture2D::3395256219571140702::1773905133::1773905134::1::::<><><>0<>0<>41ec425f27d48f68322a1244521f7285<>res://.godot/imported/Run.png-a28c8a5412acc5d2cbacf5e28d1215f9.ctex::
+Take Hit - white silhouette.png::CompressedTexture2D::7911274226364766300::1773905133::1773905134::1::::<><><>0<>0<>22ba4c3b32eef3319bdacfa33b5735c4<>res://.godot/imported/Take Hit - white silhouette.png-24838da3e3f71ca8637925d7ec57339b.ctex::
+Take Hit.png::CompressedTexture2D::5908008618491078256::1773905133::1773905134::1::::<><><>0<>0<>f70ce6d65fa6271f6870f5ca58120175<>res://.godot/imported/Take Hit.png-1d0b95b68044d67d6370c64434531d00.ctex::
+::res://asset/Martial Hero 3/::1773843250
+License.txt::TextFile::-1::1773843249::0::1::::<><><>0<>0<><>::
+Preview.png::CompressedTexture2D::7859815008126780300::1773843249::1773843250::1::::<><><>0<>0<>a5db82e1fdd8101c53c0d93e4537d4b7<>res://.godot/imported/Preview.png-d72fb74a6852e29e1aeeb00060cfc5bb.ctex::
+::res://asset/Martial Hero 3/Sprite/::1773843250
+Attack1.png::CompressedTexture2D::6823458592475429193::1773843249::1773843250::1::::<><><>0<>0<>ea4ce6a560dfe114b183d9847bfc1a3b<>res://.godot/imported/Attack1.png-4a505fc1aaf5b72d194979eccb3af1ed.ctex::
+Attack2.png::CompressedTexture2D::2950856194491352066::1773843249::1773843250::1::::<><><>0<>0<>c89b68de7fe80efac4cc9cd5eb0d6c9b<>res://.godot/imported/Attack2.png-660d2f1716f09f0fcc508ca0af734d59.ctex::
+Attack3.png::CompressedTexture2D::6979397359844659396::1773843249::1773843250::1::::<><><>0<>0<>9d6540a8f57a9e046edffdeafaa56602<>res://.godot/imported/Attack3.png-86798242678c01e6934f364fedd65f86.ctex::
+Death.png::CompressedTexture2D::1696172725003199716::1773843249::1773843250::1::::<><><>0<>0<>558940f920ce8d7d8c621f318112ba2f<>res://.godot/imported/Death.png-e8503b1c7e679f55b00c10720ef74bd9.ctex::
+Going Down.png::CompressedTexture2D::2283937486648055554::1773843249::1773843250::1::::<><><>0<>0<>c5cb7d5ba42c1f8ec575372c18b85fda<>res://.godot/imported/Going Down.png-322c9e6f67d648463a61a473357bb71c.ctex::
+Going Up.png::CompressedTexture2D::5615824417066351727::1773843249::1773843250::1::::<><><>0<>0<>36665912673154a1a1bd21a2b1d8bd3a<>res://.godot/imported/Going Up.png-31e8df8c0f6596b3755337af6b6700dd.ctex::
+Idle.png::CompressedTexture2D::3570155794886328590::1773843249::1773843250::1::::<><><>0<>0<>228c876f4cf1e9be21ffc0e6479109f5<>res://.godot/imported/Idle.png-89dcdcd23f6e8919ef0b14b8d044e5cb.ctex::
+Run.png::CompressedTexture2D::3929543401385367756::1773843249::1773843250::1::::<><><>0<>0<>be6697263e1967ebffc1af4560ad8916<>res://.godot/imported/Run.png-113e9a6aeb507c3452ba195e71f2f013.ctex::
+Take Hit.png::CompressedTexture2D::8782954148090130474::1773843249::1773843250::1::::<><><>0<>0<>d7d353addfbbfa0dda96fcd88156f518<>res://.godot/imported/Take Hit.png-1d99babf53b160bb51938ac829684108.ctex::
+::res://asset/sons/::1773845021
+666herohero-slash-21834.mp3::AudioStreamMP3::230421855727599270::1773844951::1773845021::1::::<><><>0<>0<>4cb9af1ecb9877b1e6f25059a5567702<>res://.godot/imported/666herohero-slash-21834.mp3-3967a19b217584cfe21114b554da3bd3.mp3str::
+daviddumaisaudio-sword-slash-and-swing-185432 (1).mp3::AudioStreamMP3::8658383536650102982::1773844951::1773845021::1::::<><><>0<>0<>59c0134220854a828b7f1adbe1a87269<>res://.godot/imported/daviddumaisaudio-sword-slash-and-swing-185432 (1).mp3-5ecb8ca67a20dc2c3d663b99b03fc100.mp3str::
+::res://asset/ui/::1773909753
+::res://asset/ui/HealthBar/::1773910121
+16x64 Red Simple Healthbar.png::CompressedTexture2D::2069931746763338074::1773910121::1773910121::1::::<><><>0<>0<>e93f050f4867e94fa5e3daab4e0547b7<>res://.godot/imported/16x64 Red Simple Healthbar.png-9174e8703246f1b7889603e587474d10.ctex::
+Changing Healthbar Full Heart Set.png::CompressedTexture2D::5589534187725476771::1773909769::1773909769::1::::<><><>0<>0<>09c84ed6448030e9d8fb683b2f8a5b9e<>res://.godot/imported/Changing Healthbar Full Heart Set.png-f8857a5bdf7f2034296a779a6ceb45e6.ctex::
+::res://code/::1773939859
+health_bar.gd::GDScript::7235875246507084540::1773938384::0::1::::<>Control<><>0<>0<><>::
+player.gd::GDScript::6760286065854627805::1773939500::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player_2.gd::GDScript::523040495112325074::1773939859::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://scene/::1773939991
+health_bar.tscn::PackedScene::6585527097784378134::1773937590::0::1::::<><><>0<>0<><>::uid://dbdd2qg7ncvno::::res://code/health_bar.gd<>uid://clvu2uaqaxyh4::::res://asset/ui/HealthBar/Changing Healthbar Full Heart Set.png<>uid://4qxqdkod35xe::::res://asset/ui/HealthBar/16x64 Red Simple Healthbar.png
+player.tscn::PackedScene::4141406805943973553::1773939535::0::1::::<><><>0<>0<><>::uid://c3ky6n6usfw5b::::res://code/player.gd<>uid://c4hlmphelgq0x::::res://asset/Martial Hero 3/Sprite/Attack1.png<>uid://bibof18kxx4g1::::res://asset/Martial Hero 3/Sprite/Attack2.png<>uid://c6o4wi72omb2k::::res://asset/Martial Hero 3/Sprite/Attack3.png<>uid://yfvym2wvtaho::::res://asset/Martial Hero 3/Sprite/Death.png<>uid://bq4n7dwfrkrcg::::res://asset/Martial Hero 3/Sprite/Idle.png<>uid://dxer8bgj7cncc::::res://asset/Martial Hero 3/Sprite/Take Hit.png
+player_2.tscn::PackedScene::897498152231241409::1773939859::0::1::::<><><>0<>0<><>::uid://hpmnvaypj8l7::::res://code/player_2.gd<>uid://cqprsxmw4h7fb::::res://asset/Martial Hero/Sprites/Attack1.png<>uid://dwj5y4l3w4j0m::::res://asset/Martial Hero/Sprites/Attack2.png<>uid://d1t38xeer1lr4::::res://asset/Martial Hero/Sprites/Death.png<>uid://dkyjsbo6rrtma::::res://asset/Martial Hero/Sprites/Take Hit - white silhouette.png
+scene_1.tscn::PackedScene::2421612520966187067::1773939991::0::1::::<><><>0<>0<><>::uid://b0aemn8ao85ib::::res://scene/player.tscn<>uid://c03cw0r83a68y::::res://scene/health_bar.tscn
+scene_2.tscn::PackedScene::2385301940699132936::1773939773::0::1::::<><><>0<>0<><>::uid://c03cw0r83a68y::::res://scene/health_bar.tscn<>uid://m10ws65i6pth::::res://scene/player_2.tscn
