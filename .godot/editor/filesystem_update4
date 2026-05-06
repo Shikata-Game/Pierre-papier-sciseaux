@@ -1,2 +1,3 @@
-res://scene/scene_1.tscn
-res://scene/health_bar.tscn
+res://scene/UI.tscn
+res://code/mini_gm.gd
+res://code/MovingButton.gd

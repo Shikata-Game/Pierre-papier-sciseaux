@@ -1,23 +1,23 @@
-[gd_scene load_steps=3 format=3 uid="uid://barbusyb6sx3h"]
+[gd_scene format=3 uid="uid://barbusyb6sx3h"]
 
 [ext_resource type="PackedScene" uid="uid://b0aemn8ao85ib" path="res://scene/player.tscn" id="1_pmvqc"]
 [ext_resource type="PackedScene" uid="uid://c03cw0r83a68y" path="res://scene/health_bar.tscn" id="2_cgmaq"]
 
-[node name="scene1" type="Node2D"]
+[node name="scene1" type="Node2D" unique_id=2033450620]
 
-[node name="CanvasLayer" type="CanvasLayer" parent="."]
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=432449840]
 
-[node name="HealthBar" parent="CanvasLayer" instance=ExtResource("2_cgmaq")]
-offset_left = 39.0
-offset_top = 190.0
-offset_right = 79.0
-offset_bottom = 230.0
+[node name="HealthBar" parent="CanvasLayer" unique_id=1670358531 instance=ExtResource("2_cgmaq")]
+offset_left = 33.0
+offset_top = 176.0
+offset_right = 73.0
+offset_bottom = 216.0
 
-[node name="Player" parent="." node_paths=PackedStringArray("health_bar") instance=ExtResource("1_pmvqc")]
+[node name="Player" parent="." unique_id=1747287292 node_paths=PackedStringArray("health_bar") instance=ExtResource("1_pmvqc")]
 position = Vector2(130, 260)
 health_bar = NodePath("../CanvasLayer/HealthBar")
 
-[node name="Camera2D" type="Camera2D" parent="Player"]
+[node name="Camera2D" type="Camera2D" parent="Player" unique_id=2134455113]
 position = Vector2(83, 88)
 rotation = 3.1415927
 scale = Vector2(4.5610905, -1)

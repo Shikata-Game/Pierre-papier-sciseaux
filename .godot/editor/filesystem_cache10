@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1777906974
+::res://::1778065814
 icon.svg::CompressedTexture2D::5229429350707340863::1773745982::1773745994::1::::<><><>0<>0<>071c9287f1bba12f80e346805349fbc4<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://asset/::1773909733
 ::res://asset/Martial Hero/::1773905133
@@ -34,13 +34,19 @@ daviddumaisaudio-sword-slash-and-swing-185432 (1).mp3::AudioStreamMP3::865838353
 ::res://asset/ui/HealthBar/::1773910121
 16x64 Red Simple Healthbar.png::CompressedTexture2D::2069931746763338074::1773910121::1773910121::1::::<><><>0<>0<>e93f050f4867e94fa5e3daab4e0547b7<>res://.godot/imported/16x64 Red Simple Healthbar.png-9174e8703246f1b7889603e587474d10.ctex::
 Changing Healthbar Full Heart Set.png::CompressedTexture2D::5589534187725476771::1773909769::1773909769::1::::<><><>0<>0<>09c84ed6448030e9d8fb683b2f8a5b9e<>res://.godot/imported/Changing Healthbar Full Heart Set.png-f8857a5bdf7f2034296a779a6ceb45e6.ctex::
-::res://code/::1773939859
+::res://code/::1778060820
 health_bar.gd::GDScript::7235875246507084540::1773938384::0::1::::<>Control<><>0<>0<><>::
+mini_gm.gd::GDScript::2950279871632377824::1778060820::0::1::::<>Control<><>0<>0<><>::
+MovingButton.gd::GDScript::230972170145746247::1778059616::0::1::::MovingButton<>Button<><>0<>0<><>::
 player.gd::GDScript::6760286065854627805::1773939500::0::1::::<>CharacterBody2D<><>0<>0<><>::
 player_2.gd::GDScript::523040495112325074::1773939859::0::1::::<>CharacterBody2D<><>0<>0<><>::
-::res://scene/::1773939991
-health_bar.tscn::PackedScene::6585527097784378134::1773937590::0::1::::<><><>0<>0<><>::uid://dbdd2qg7ncvno::::res://code/health_bar.gd<>uid://clvu2uaqaxyh4::::res://asset/ui/HealthBar/Changing Healthbar Full Heart Set.png<>uid://4qxqdkod35xe::::res://asset/ui/HealthBar/16x64 Red Simple Healthbar.png
+::res://scene/::1778060961
+btn_classe_scripts.tscn::PackedScene::6004177683349813978::1778034127::0::1::::<><><>0<>0<><>::uid://dj5cwbwmextf::::res://code/MovingButton.gd
+health_bar.tscn::PackedScene::6585527097784378134::1777907393::0::1::::<><><>0<>0<><>::uid://dbdd2qg7ncvno::::res://code/health_bar.gd<>uid://clvu2uaqaxyh4::::res://asset/ui/HealthBar/Changing Healthbar Full Heart Set.png<>uid://4qxqdkod35xe::::res://asset/ui/HealthBar/16x64 Red Simple Healthbar.png
+Mini_GM.tscn::PackedScene::9010321962686626481::1778033996::0::1::::<><><>0<>0<><>::uid://bibexcjt2t8k7::::res://code/mini_gm.gd
+node_2d.tscn::PackedScene::3950095212414498013::1778032897::0::1::::<><><>0<>0<><>::uid://dj5cwbwmextf::::res://code/MovingButton.gd
 player.tscn::PackedScene::4141406805943973553::1773939535::0::1::::<><><>0<>0<><>::uid://c3ky6n6usfw5b::::res://code/player.gd<>uid://c4hlmphelgq0x::::res://asset/Martial Hero 3/Sprite/Attack1.png<>uid://bibof18kxx4g1::::res://asset/Martial Hero 3/Sprite/Attack2.png<>uid://c6o4wi72omb2k::::res://asset/Martial Hero 3/Sprite/Attack3.png<>uid://yfvym2wvtaho::::res://asset/Martial Hero 3/Sprite/Death.png<>uid://bq4n7dwfrkrcg::::res://asset/Martial Hero 3/Sprite/Idle.png<>uid://dxer8bgj7cncc::::res://asset/Martial Hero 3/Sprite/Take Hit.png
 player_2.tscn::PackedScene::897498152231241409::1773939859::0::1::::<><><>0<>0<><>::uid://hpmnvaypj8l7::::res://code/player_2.gd<>uid://cqprsxmw4h7fb::::res://asset/Martial Hero/Sprites/Attack1.png<>uid://dwj5y4l3w4j0m::::res://asset/Martial Hero/Sprites/Attack2.png<>uid://d1t38xeer1lr4::::res://asset/Martial Hero/Sprites/Death.png<>uid://dkyjsbo6rrtma::::res://asset/Martial Hero/Sprites/Take Hit - white silhouette.png
-scene_1.tscn::PackedScene::2421612520966187067::1773939991::0::1::::<><><>0<>0<><>::uid://b0aemn8ao85ib::::res://scene/player.tscn<>uid://c03cw0r83a68y::::res://scene/health_bar.tscn
+scene_1.tscn::PackedScene::2421612520966187067::1778031555::0::1::::<><><>0<>0<><>::uid://b0aemn8ao85ib::::res://scene/player.tscn<>uid://c03cw0r83a68y::::res://scene/health_bar.tscn
 scene_2.tscn::PackedScene::2385301940699132936::1773939773::0::1::::<><><>0<>0<><>::uid://c03cw0r83a68y::::res://scene/health_bar.tscn<>uid://m10ws65i6pth::::res://scene/player_2.tscn
+UI.tscn::PackedScene::1080755842449817543::1778060961::0::1::::<><><>0<>0<><>::uid://dj5cwbwmextf::::res://code/MovingButton.gd<>uid://bibexcjt2t8k7::::res://code/mini_gm.gd

@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://crsp6uggyxqe1"]
+
+[ext_resource type="Script" uid="uid://dj5cwbwmextf" path="res://code/MovingButton.gd" id="1_rijyq"]
+
+[node name="Btn_Classe_Scripts" type="Node2D" unique_id=1780504384]
+script = ExtResource("1_rijyq")

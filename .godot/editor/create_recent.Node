@@ -1,7 +1,11 @@
+Label
+Button
+VBoxContainer
+Panel
+Control
 Camera2D
 CanvasLayer
 TextureProgressBar
-Control
 CollisionShape2D
 AnimatedSprite2D
 CharacterBody2D

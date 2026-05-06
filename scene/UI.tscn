@@ -1,0 +1,95 @@
+[gd_scene format=3 uid="uid://pnr5j18f7c7p"]
+
+[ext_resource type="Script" uid="uid://dj5cwbwmextf" path="res://code/MovingButton.gd" id="1_c73ev"]
+[ext_resource type="Script" uid="uid://bibexcjt2t8k7" path="res://code/mini_gm.gd" id="1_qe48f"]
+
+[node name="Control" type="Control" unique_id=956974648 groups=["ui_manager"]]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 34.0
+offset_bottom = 43.0
+script = ExtResource("1_qe48f")
+
+[node name="Panel_J2" type="Panel" parent="." unique_id=2110768051]
+layout_mode = 1
+anchors_preset = 1
+anchor_left = 1.0
+anchor_right = 1.0
+offset_left = 341.0
+offset_top = 8.0
+offset_right = 623.0
+offset_bottom = 353.0
+grow_horizontal = 0
+
+[node name="Btn_Rock_J2" type="Button" parent="Panel_J2" unique_id=1932329806 groups=["Buttons"]]
+layout_mode = 1
+offset_right = 279.0
+offset_bottom = 31.0
+text = "Rock"
+script = ExtResource("1_c73ev")
+player_id = 2
+
+[node name="Btn_Paper_J2" type="Button" parent="Panel_J2" unique_id=1422540873 groups=["Buttons"]]
+layout_mode = 0
+offset_left = 5.0
+offset_top = 48.0
+offset_right = 284.0
+offset_bottom = 79.0
+text = "Paper"
+script = ExtResource("1_c73ev")
+player_id = 2
+
+[node name="Btn_Scissors_J2" type="Button" parent="Panel_J2" unique_id=2102273715 groups=["Buttons"]]
+layout_mode = 0
+offset_left = 2.0
+offset_top = 106.0
+offset_right = 286.0
+offset_bottom = 137.0
+text = "Scissers"
+script = ExtResource("1_c73ev")
+player_id = 2
+
+[node name="Panel_J1" type="Panel" parent="." unique_id=1612019555]
+layout_mode = 1
+offset_right = 310.0
+offset_bottom = 357.0
+
+[node name="Btn_Rock_J1" type="Button" parent="Panel_J1" unique_id=1939155195 groups=["Buttons"]]
+layout_mode = 0
+offset_right = 310.0
+offset_bottom = 31.0
+text = "Rock"
+script = ExtResource("1_c73ev")
+
+[node name="Btn_Paper_J1" type="Button" parent="Panel_J1" unique_id=212060498 groups=["Buttons"]]
+layout_mode = 0
+offset_top = 66.0
+offset_right = 312.0
+offset_bottom = 109.0
+text = "Paper"
+script = ExtResource("1_c73ev")
+
+[node name="Btn_Scissors_J1" type="Button" parent="Panel_J1" unique_id=1115035082 groups=["Buttons"]]
+layout_mode = 0
+offset_top = 151.0
+offset_right = 310.0
+offset_bottom = 201.0
+text = "Scissors"
+script = ExtResource("1_c73ev")
+
+[node name="Label_Info" type="Label" parent="." unique_id=1132606938]
+layout_mode = 1
+anchors_preset = -1
+anchor_right = 1.176
+anchor_bottom = 0.5
+offset_left = 670.0
+offset_top = 6.0
+offset_right = 1004.016
+offset_bottom = 7.5
+
+[node name="Label_Timer" type="Label" parent="." unique_id=1138651510]
+layout_mode = 0
+offset_left = 685.0
+offset_top = 146.0
+offset_right = 1052.0
+offset_bottom = 169.0
